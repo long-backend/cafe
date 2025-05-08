@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 1234567
 
+=======
+parent of 7e33e87 (add content)
+>>>>>>> parent of 7bafdd6 (1-6)
